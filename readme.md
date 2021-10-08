@@ -1,7 +1,4 @@
-# Word2vec From Scratch Numpy
+# Word2vec
 
-Implementation of [Word2vec model](https://arxiv.org/abs/1301.3781) from scratch (in numpy). This projet is the second HW of the course [Standford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) (unofficial following)
+In this projet I implement the [Skipgram model with Negative Sample](https://arxiv.org/pdf/1310.4546) (in numpy). This projet is the second assignements of [Standford CS224N](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 
-The constraints of this HW are : 
-- Using only Numpy 
-- Develop the model with python scripts and not Ipython Notebook
